@@ -1,0 +1,15 @@
+{
+  "name": "genpark-cdcl-sat-two-watched-literals-skill",
+  "version": "1.0.0",
+  "description": "Conflict-Driven Clause Learning (CDCL) 2-Watched Literals (2WL) clause indexer accelerating Boolean constraint propagation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "cdcl",
+    "2wl",
+    "sat-indexing",
+    "constraint-satisfaction"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
